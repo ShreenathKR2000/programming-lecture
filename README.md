@@ -57,6 +57,6 @@ numpy
 
 pandas
 
-##Contact
+## Contact
 
 For questions or feedback, please open an issue here on GitHub.
