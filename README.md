@@ -4,7 +4,7 @@ This repository contains a Google Colab notebook for training Convolutional Neur
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 You can run the entire project directly in Google Colab without any local setup.
 
